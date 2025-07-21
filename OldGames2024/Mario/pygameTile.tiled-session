@@ -1,0 +1,29 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/himan/Downloads/spritesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MyTileMap.tmx": {
+            "scale": 2.5549804687499997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 255.97064556816878,
+                "y": 151.6645644612621
+            }
+        }
+    },
+    "last.exportedFilePath": "D:/Kavya/Mario",
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "pygameTile.tiled-project",
+    "recentFiles": [
+        "C:/Users/himan/Downloads/spritesheet.tsx",
+        "MyTileMap.tmx"
+    ]
+}

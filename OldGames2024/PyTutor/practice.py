@@ -1,0 +1,5 @@
+x = int(input('Length 1 of rectangle '))
+y = int(input('Width 1 of rectangle '))
+z = int(input('Length 2 of rectangle '))
+d = int(input('Width 2 of rectangle '))
+print(x+y+z+d)
